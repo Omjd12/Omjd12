@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Omjd12
+- 👋 Hi, I’m om Jadhav 
 - 👀 I’m interested in robotics and AI
 - 🌱 I’m currently learning robotics 
 - 💞️ I’m looking to collaborate on ...
