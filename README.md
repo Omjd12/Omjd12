@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm om jadhav</h1>
-<h3 align="center">A robotics engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omjd12&label=Profile%20views&color=0e75b6&style=flat" alt="omjd12" /> </p>
 
-- 🔭 I’m currently working on **automated attendance system**
+- 🔭 I’m currently working on **self balancing robot**
 
 - 👯 I’m looking to collaborate on **IoT development and robotics projects**
 
