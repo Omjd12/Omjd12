@@ -2,10 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omjd12&label=Profile%20views&color=0e75b6&style=flat" alt="omjd12" /> </p>
 
-- 🔭 I’m currently working on **self balancing robot**
-
-- 👯 I’m looking to collaborate on **IoT development and robotics projects**
-
 - 📫 How to reach me **omjadha9728@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
